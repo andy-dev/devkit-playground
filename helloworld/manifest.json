@@ -1,0 +1,17 @@
+{
+  "appID": "20c3df642de346048cd0a23db54055bb",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v3.0.1"
+  },
+  "shortName": "helloworld",
+  "studio": {
+    "domain": "studio.example.com",
+    "name": "Your Studio Name",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "helloworld"
+}
